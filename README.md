@@ -1,4 +1,4 @@
-Oliver Quinonez
+Quinonez
 This repo contains the work done for APPM 4600. The directroy structure is as follows:
 testrep
   Homeworks
