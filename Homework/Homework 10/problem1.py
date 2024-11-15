@@ -10,7 +10,7 @@ def driver():
 
     T = lambda x: x-x**3/6+x**6/720
 
-    plt.plot(x,abs(fa(x)-T(x)))
+    plt.plot(x,abs(fa(x)-T(x))x)
     plt.plot(x,abs(fb(x)-T(x)))
 
     plt.legend(['error problem a','error problem b'])
